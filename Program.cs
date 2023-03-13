@@ -108,7 +108,7 @@ public car(string make,string model,int year,double price,bool is_Electric,bool 
    {
    	Console.WriteLine("The car is turned right");
    }
-
+} 
 public static class Program
  {
 	public static void Main()
